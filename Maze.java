@@ -1,7 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
 import java.util.Scanner;
-import java.awt.event.WindowEvent;
 import java.io.File;
 
 public class Maze{
